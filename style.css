@@ -1,0 +1,12 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    background-color: orange;
+  }
+  h1 {
+    font-weight: bolder;
+    font-style: italic;
+  }
+  
